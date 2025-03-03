@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+*.csv
+*.mp4
+*.jpg
+models/

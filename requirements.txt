@@ -1,0 +1,13 @@
+ultralytics==8.1.26  # YOLOv8 for helmet detection
+opencv-python==4.8.0.76  # OpenCV for image processing
+torch==2.0.1  # PyTorch for YOLOv8
+torchvision==0.15.2  # PyTorch Vision utilities
+easyocr==1.7.2  # OCR for reading number plates
+numpy==1.23.5  # Numerical operations
+pandas==2.0.3  # Data handling
+matplotlib==3.7.1  # Visualization
+imutils==0.5.4  # Image utilities
+tqdm==4.66.1  # Progress bar for tracking
+scipy==1.10.1  # Scientific computing
+paddleocr==2.6.1.0  # PaddleOCR (alternative OCR if needed)
+paddlepaddle==2.5.1  # PaddlePaddle for PaddleOCR
